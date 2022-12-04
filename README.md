@@ -1,8 +1,43 @@
-- 👋 Hi, I’m Axel (@Khaxel11) 
-- 👀 I’m interested in Proyect Management
-- 🌱 I’m currently learning Angular
-- 💞️ I’m practicing in CECSO
-- 📫 How to reach me by email 
+<h1>Hi, I’m Axel</h1> <h3>(@Khaxel11)</h3>
+<h2>Software Engineer</h2>
+<hr>
+Interested in Project Management and currently learning web frameworks
+
+Currently Working at CECSO as a BI Analyst and Software development
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>C#</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Java</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>JavaScript</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>HTML/CSSS</td>
+    </tr>
+     <tr>
+      <th scope="row">5</th>
+      <td>SQL / T-SQL</td>
+    </tr>
+    <tr>
+      <th scope="row">6</th>
+      <td>Angular</td>
+    </tr>
+  </tbody>
+</table>
 
 <!---
 Khaxel11/Khaxel11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
