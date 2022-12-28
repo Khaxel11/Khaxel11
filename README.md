@@ -1,9 +1,7 @@
 <h1>Hi, I’m Axel</h1> <h3>(@Khaxel11)</h3>
 <h2>Software Engineer</h2>
 <hr>
-Interested in Project Management and currently learning web frameworks
 
-Currently Working at CECSO as a BI Analyst and Software development
 <table class="table">
   <thead>
     <tr>
