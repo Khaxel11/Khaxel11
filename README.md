@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <th scope="row">4</th>
-      <td>HTML/CSSS</td>
+      <td>HTML/CSS</td>
     </tr>
      <tr>
       <th scope="row">5</th>
