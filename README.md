@@ -34,6 +34,10 @@
       <th scope="row">6</th>
       <td>Angular</td>
     </tr>
+     <tr>
+      <th scope="row">7</th>
+      <td>Ionic</td>
+    </tr>
   </tbody>
 </table>
 
