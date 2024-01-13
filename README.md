@@ -1,47 +1,25 @@
-<h1>Hi, I’m Axel</h1> <h3>(@Khaxel11)</h3>
-<h2>Software Engineer</h2>
-<hr>
+# Hi, I’m Axel 👋 (@Khaxel11)
+## Software Engineer
 
-<table class="table">
-  <thead>
-    <tr>
-      <th scope="col">#</th>
-      <th scope="col">Code</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>C#</td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Java</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>JavaScript</td>
-    </tr>
-    <tr>
-      <th scope="row">4</th>
-      <td>HTML/CSS</td>
-    </tr>
-     <tr>
-      <th scope="row">5</th>
-      <td>SQL / T-SQL</td>
-    </tr>
-    <tr>
-      <th scope="row">6</th>
-      <td>Angular</td>
-    </tr>
-     <tr>
-      <th scope="row">7</th>
-      <td>Ionic</td>
-    </tr>
-  </tbody>
-</table>
+---
 
-<!---
-Khaxel11/Khaxel11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate software developer with experience in TypeScript and C#. I love building robust, efficient, and scalable applications. Currently, I'm focused on learning Movile Frameworks to develop modern App solutions.
+
+### About Me
+I'm an enthusiast of software development, always eager to learn new technologies and improve my skills. I enjoy the challenges that come with software development and strive to create scalable and high-quality solutions.
+
+### Contact
+If you'd like to get in touch with me or have any questions, you can reach me at:
+- Email: axelagui.11@gmail.com
+- LinkedIn: [Connect with me ✈](https://www.linkedin.com/in/axel-aguilar-328697274/)
+
+I'm excited to continue growing in my software development career and explore new opportunities and interesting projects! ✨
+## Tech Stack
+
+1. **C#**
+2. **Java**
+3. **JavaScript**
+4. **HTML/CSS**
+5. **SQL / T-SQL**
+6. **Angular**
+7. **Ionic**
